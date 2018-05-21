@@ -35,7 +35,6 @@ class Song
     @@genre_count[x] = @@genres.count(x)
   end
     @@genre_count
-    end 
   end 
   
 end 
